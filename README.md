@@ -1,21 +1,50 @@
 # Franklin Ekemezie
 
-**Full-Stack Developer**
+**Full-Stack Developer · Backend Focused**
 
-Hi there! I'm Franklin Ekemezie, a driven full-stack web developer with a knack for turning ideas into functional web applications. I'm currently pursuing a Mechatronics Engineering degree and love to merge technology with creativity.
+I’m a software developer with over 3 years of experience building web applications, with a strong focus on **PHP, Laravel, APIs, databases, and backend architecture**. I also work across the frontend with **JavaScript, TypeScript, React, and Tailwind CSS**.
 
-## 🔧 My Toolbox
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Bootstrap
-- **Database**: MySQL
-- **Tools**: Git, VS Code
+I care about writing software that is understandable, maintainable, and reliable. My interests extend beyond frameworks into **software architecture, system design, databases, algorithms, and computer science fundamentals**.
 
-## 🚀 My Interest
-- Backend programming in PHP
-- Machine Learning and Computer Vision (AI)
-- Mechatronics, Automation and Intelligent Systems
+## Technologies
 
-## 📬 Let's Build Together
-I'm always open to collaboration and learning from others. Let's connect and create something amazing!
+**Languages**
+PHP · JavaScript · TypeScript · Python · C · C++ · Rust
 
-**Email**: [franklynpeter2006@gmail.com](mailto:franklynpeter2006@gmail.com)
+**Web & Backend**
+Laravel · REST APIs · Inertia.js · React · MySQL · PostgreSQL · Redis
+
+**Tools & Practices**
+Git · Linux · PHPUnit · Pest · GitHub Actions · Nginx · Tailwind CSS
+
+## Currently Interested In
+
+* Backend engineering and system design
+* Software architecture and maintainable systems
+* Databases, APIs, and distributed application design
+* Computer science and systems programming
+* Intelligent systems and the intersection of software and mechatronics
+
+## Selected Work
+
+### Mahadum
+
+A multi-tenant full-stack platform for educational institutions to manage academic workflows.
+
+### Type Smith
+
+A PHP package for generating TypeScript types from PHP source code, with a focus on type analysis, normalization, and extensible code generation.
+
+### Orion MES
+
+A manufacturing execution and production-logbook system designed around structured production workflows, role-based access, approvals, and auditability.
+
+## Beyond Software
+
+I’m studying **Mechatronics Engineering**, which has given me an interest in the intersection of software, electronics, control systems, and physical machines. I’m particularly interested in applying software and intelligent systems to engineering problems.
+
+## Contact
+
+* **Website:** [franklinekemezie.dev](https://franklinekemezie.dev/)
+* **GitHub:** [@FranklinEkemezie](https://github.com/FranklinEkemezie)
+* **Email:** [franklynpeter2006@gmail.com](mailto:franklynpeter2006@gmail.com)
